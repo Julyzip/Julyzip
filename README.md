@@ -7,6 +7,6 @@
 - ⚡ Fun fact: create functions with names so descriptive that even I get sleepy reading them.
 
 <!---
-Julizip/Julizip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Julyzip/Julyzip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
