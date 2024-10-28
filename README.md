@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn about the technology area
 - 🌱 I’m currently learning programming logic
 - 💞️ I’m looking to collaborate on projects and learn
-- 📫 How to reach me juliany158@gmail.com
+- 📫 How to reach me: juliany158@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: create functions with names so descriptive that even I get sleepy reading them.
 
