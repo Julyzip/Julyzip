@@ -5,6 +5,7 @@
 - 📫 How to reach me: juliany158@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: create functions with names so descriptive that even I get sleepy reading them.
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!---
 Julyzip/Julyzip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
